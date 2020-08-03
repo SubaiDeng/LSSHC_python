@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc88025f-66d8-4e9e-9032-4f73f01d08e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eMbOBvf1tn11jwAHUalB91Ak4J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.lsshc">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lsshc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lsshc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lsshc" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc88025f-66d8-4e9e-9032-4f73f01d08e1" name="Default Changelist" comment="" />
+      <created>1594134374741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594134374741</updated>
+      <workItem from="1594134376399" duration="20355000" />
+      <workItem from="1594567931126" duration="2928000" />
+      <workItem from="1594654435555" duration="3327000" />
+      <workItem from="1594658903659" duration="1296000" />
+      <workItem from="1594890563339" duration="955000" />
+      <workItem from="1595141081024" duration="1367000" />
+      <workItem from="1595254228897" duration="10669000" />
+      <workItem from="1595353319304" duration="3529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="121" key="GridCell.Tab.0.bottom" timestamp="1595389280401">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="121" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595389280401" />
+    <state width="1238" height="121" key="GridCell.Tab.0.center" timestamp="1595389280400">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="121" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595389280400" />
+    <state width="1238" height="121" key="GridCell.Tab.0.left" timestamp="1595389280400">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="121" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595389280400" />
+    <state width="1238" height="121" key="GridCell.Tab.0.right" timestamp="1595389280400">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="121" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595389280400" />
+    <state width="1238" height="250" key="GridCell.Tab.1.bottom" timestamp="1595360127087">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="250" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595360127087" />
+    <state width="1238" height="250" key="GridCell.Tab.1.center" timestamp="1595360127085">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="250" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1595360127085" />
+    <state width="1238" height="250" key="GridCell.Tab.1.left" timestamp="1595360127084">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="250" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1595360127084" />
+    <state width="1238" height="250" key="GridCell.Tab.1.right" timestamp="1595360127086">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="250" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1595360127086" />
+    <state width="834" height="388" key="XDebugger.FullValuePopup" timestamp="1595357904290">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="834" height="388" key="XDebugger.FullValuePopup/0.23.1280.777@0.23.1280.777" timestamp="1595357904290" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1595353358363">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1595353358363" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1594299271610">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1594299271610" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lsshc.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lsshc.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1595299259865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1594134671047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$lsshc.coverage" NAME="lsshc Coverage Results" MODIFIED="1595389280392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
