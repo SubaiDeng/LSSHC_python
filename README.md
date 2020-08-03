@@ -7,10 +7,7 @@ If you want to use the code, please cite
 
 
 # Environment
-python 3.7
-sklearn 0.23.0
-scipy 1.5.2
-numpy 1.19.0
+python 3.7, sklearn 0.23.0, scipy 1.5.2, numpy 1.19.0
 
 # Run
 `python lsshc.py`
